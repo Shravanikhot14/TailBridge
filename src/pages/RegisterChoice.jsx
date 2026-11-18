@@ -14,7 +14,7 @@ function RegisterChoice() {
       <div className="row justify-content-center g-4">
         <div className="col-md-5">
           <div className="card shadow-sm border-0 h-100 p-4 text-center">
-            <i className="bi bi-paw-fill display-3 text-primary"></i>
+            <i className="bi bi-person-fill display-3 text-dark"></i>
             <h3 className="mt-3">Pet Adopter</h3>
             <p>
               Create an account to adopt pets, save favourites,
@@ -28,7 +28,7 @@ function RegisterChoice() {
 
         <div className="col-md-5">
           <div className="card shadow-sm border-0 h-100 p-4 text-center">
-            <i className="bi bi-houses-fill display-3 text-primary"></i>
+            <i className="bi bi-houses-fill display-3 text-dark"></i>
             <h3 className="mt-3">Animal Welfare Partner</h3>
             <p>
               Register your NGO or animal shelter to help manage
