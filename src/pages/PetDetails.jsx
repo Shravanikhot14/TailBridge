@@ -1,6 +1,6 @@
 import React from "react";
 import { Link, useNavigate, useParams } from "react-router-dom";
-import pets from "../data/petsData";
+import pets from "../data/PetsData";
 
 function PetDetails() {
   const { id } = useParams();
