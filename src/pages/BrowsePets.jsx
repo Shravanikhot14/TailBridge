@@ -1,6 +1,6 @@
 import React, { useContext, useMemo, useState } from "react";
 import { useNavigate } from "react-router-dom";
-import pets from "../data/petsData";
+import pets from "../data/PetsData";
 import { FavouritesContext } from "../FavouritesContext";
 
 function BrowsePets() {
